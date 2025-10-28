@@ -163,7 +163,7 @@ Les résultats expérimentaux sont conformes aux attentes, et le système peut �
 Le dépôt [EA113_-_Generateur_de_son]([https://github.com/matteob29/EA113_-_Generateur_de_son]) contient les éléments suivants :
 
 
-- [Datasheet/](./Datasheet)      → DAtasheet des coomposants utilisés
+- [Datasheet/](./Datasheet)      → Datasheet des coomposants utilisés
 - [PCB/](./PCB)                  → Layouts et typons
 - [Proteus/](./Proteus)          → Schémas et fichiers de simulation (.pdsprj)  
 - [Rapport/](./Rapport)          → générateur de son.pdf  
