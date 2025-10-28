@@ -170,3 +170,9 @@ Le dépôt [EA113_-_Generateur_de_son]([https://github.com/matteob29/EA113_-_Gen
 - [Simulations/](./Simulations)  → Résultats théoriques sous Proteus
 - [README.md](./README.md)
 
+  
+---
+
+© 2025 — Mattéo BINET, Alexandre BROMET  
+Département Électronique — EA113  
+Enseirb-Matmeca — Générateur de son
