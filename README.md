@@ -160,5 +160,13 @@ Les résultats expérimentaux sont conformes aux attentes, et le système peut �
 
 ## 10. Contenu du dépôt GitHub
 
-Le dépôt contient les fichiers suivants :
+Le dépôt [EA113_-_Generateur_de_son]([https://github.com/matteob29/EA113_-_Generateur_de_son]) contient les éléments suivants :
+
+
+- [Datasheet/](./Datasheet)      → DAtasheet des coomposants utilisés
+- [PCB/](./PCB)                  → Layouts et typons
+- [Proteus/](./Proteus)          → Schémas et fichiers de simulation (.pdsprj)  
+- [Rapport/](./Rapport)          → générateur de son.pdf  
+- [Simulations/](./Simulations)  → Résultats théoriques sous Proteus
+- [README.md](./README.md)
 
